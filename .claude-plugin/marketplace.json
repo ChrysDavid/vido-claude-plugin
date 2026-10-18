@@ -1,0 +1,11 @@
+{
+  "name": "vido-skills",
+  "owner": { "name": "Chrys David" },
+  "plugins": [
+    {
+      "name": "vido",
+      "source": "./",
+      "description": "Règles de travail et mémoire projet du propriétaire, pour tous ses projets."
+    }
+  ]
+}
