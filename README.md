@@ -15,6 +15,19 @@
 
 ---
 
+## 💬 En clair
+
+Ce plugin apprend à Claude ma façon de travailler, une fois pour toutes.
+Je n'ai plus besoin de lui répéter mes règles à chaque nouvelle conversation : il les connaît dès l'ouverture.
+Il se souvient de ce qui a été fait dans le projet la dernière fois et reprend là où on s'était arrêté.
+Il répond court, en français simple, et va droit au but.
+Il lit seulement ce dont il a besoin, ce qui coûte moins cher et va plus vite.
+Il m'empêche de faire des bêtises, comme envoyer du code sur GitHub sans que je l'aie demandé ou toucher aux fichiers de mots de passe.
+Il vérifie son travail avant de me dire que c'est fini, et me dit clairement ce qui n'a pas été testé en vrai.
+Il m'envoie une notification sur Windows quand il a besoin de moi ou quand une longue tâche est terminée.
+Il sait démarrer un nouveau projet proprement, et préparer une mise en production sans rien oublier.
+Avec le temps, il repère ce que j'ai dû lui répéter et l'ajoute à ses consignes pour ne plus l'oublier.
+
 ## ✨ Ce qu'il fait
 
 | | Fonction | Comment |
